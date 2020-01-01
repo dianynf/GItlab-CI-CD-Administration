@@ -1,0 +1,15 @@
+Akses Lab 2
+Lab2.nolsatu.id
+Domain : nurulfikri
+Username : user-01 - 13
+Password : nurulfikri
+
+Akses SSH Gateway
+ssh -l user-01 - 13 lab2.nolsatu.id atau ssh -l user-16 lab2.nolsatu.id -p 2200
+Password : Cl0uDC0mPu7iNG!
+
+-------------public key saya. dgn akses 
+   cat .ssh/id_rsa.pub
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUGiJWgR1gOMQPzIuKnNFu7MECBYYWNTaXB9jwQWtR/KKs0ZQ+7xls4RJOjj+l62wpa0TGu5Cg3Hxpij/wnq4JgcTvFwZZn6cLaWEVDg9cgh106QHtrGu1unOYwtzjSaQyg1Z1Zd3i20Fy0D8A3oWqGe9LhCHVRnu6i6X+NBIbV8ZHzrijZX8OwoU2mOl0mxsh5bT4sM+zYy0p+E+2Xfy7HPtaZ3nr2+McLbSae8StV+6FOX2Azn6/1mtvNFxmr+TT+xGu3zJx8KyLP+221Gc6q4XRkfghtyGfIHZc+RSb+Yf/FnGh50xr2lOj73goO0uC3EYPHgWCoZOV3dwQ+JKL user-16@ssh-gateway
+   
