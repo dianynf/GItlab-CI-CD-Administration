@@ -1,0 +1,6 @@
+sudo gitlab-runner register -n \
+  --url http://10.60.8.169/ \
+  --registration-token qnrAJQDcsZruqQ4veCdX \
+  --executor shell \
+  --description "apps" \
+  --tag-list "apps"
